@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="과목">
+        <item>과목1</item>
+        <item>과목2</item>
+        <item>과목3</item>
+        <item>과목4</item>
+        <item>과목5</item>
+    </string-array>
+</resources>
